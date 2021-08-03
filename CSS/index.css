@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+h2{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.highlighted{
+    color: orangered;
+}
+.first-section{
+    display: flex;
+    margin-bottom: 50px;
+}
+.division{
+    width: 50%;
+    padding-left: 5%;
+}
+.division p{
+    margin-bottom: 50px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,orangered);
+    padding: 10px 40px;
+    border-radius: 30px;
+    color: white;
+}
+.division img{
+    margin-top: 50px;
+    width: 50%;
+}
+
+.second-section{
+    display: flex;
+    width: 100%;
+    background-image: url(/images/shapes/Frame\59.jpg);
+    margin-bottom: 50px;
+}
+.about-me{
+    padding-right: 100px;
+}
+
+.third-section{
+    margin-bottom: 50px;
+    align-items: center;
+}
+.third-section h2{
+    text-align: center;
+}
+.third-section p{
+    text-align: center;
+}
+
+.box{
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    display: flex;
+    width: 100%;
+}
+.box-00{
+    padding: 10px;
+    box-shadow: gray;
+}
+.box-00 img{
+    padding: 10px;
+    border-radius: 5px;
+    width: 33%;
+}
+
+.fourth-section{
+    display: flex;
+    margin-bottom: 50px;
+}
+.fourth-section p{
+    width: 33%;
+}
+.box-01{
+    margin-left: 80px;
+    width: 33%;
+}
+
+footer{
+    margin: 0;
+    text-align: center;
+    color: gray;
+    background-color: black;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
